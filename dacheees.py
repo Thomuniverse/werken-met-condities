@@ -36,4 +36,3 @@ elif true == "nee":
 		  elif true == "nee":
 		  	print("Foume d'Ambert")
 		  	input("Press enter to exit ;)")
-		
